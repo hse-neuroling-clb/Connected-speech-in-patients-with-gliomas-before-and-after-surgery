@@ -1,2 +1,2 @@
-# Connected-speech-in-patients-with-gliomas-before-and-after-surgery
-Connected speech in patients with gliomas before and after surgery: evidence from three elicitation tasks
+# Connected speech in patients with gliomas before and after surgery: evidence from three elicitation tasks
+
